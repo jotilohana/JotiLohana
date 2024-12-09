@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there! 👋 I'm Joti Kumari
+I'm Joti Kumari:)
 
 A passionate **React Native Developer** dedicated to crafting seamless and innovative mobile applications. 🚀
 
