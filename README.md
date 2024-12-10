@@ -15,6 +15,10 @@ A passionate **React Native Developer** dedicated to crafting seamless and innov
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-1E90FF?logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C-purple?logo=bootstrap&logoColor=white)
 
 ## 🏆 Highlights
 - 📱 Developed multiple cross-platform mobile apps using **React Native**.
