@@ -35,6 +35,9 @@ A passionate **React Native Developer** dedicated to crafting seamless and innov
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotilohana&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotilohana&layout=compact&theme=radical)
 
+ ![Joti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotilohana&show_icons=true&theme=radical)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jotilohana&theme=radical)
+
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joti-l-36920818a/)
