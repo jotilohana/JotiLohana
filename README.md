@@ -32,8 +32,8 @@ A passionate **React Native Developer** dedicated to crafting seamless and innov
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotilohana&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotilohana&show_icons=true&theme=radical&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotilohana&layout=compact&theme=radical)
 
 
 ## 🤝 Let's Connect!
